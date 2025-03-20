@@ -1,10 +1,9 @@
-# 🖐️ Hi, i'am Fahmi:
-🏫 Vocational Highschool Student<br>💻 Junior Web Developer<br>👯 Feel free to collaborate on<br>🐈 Love cat
-
 <p align="center>
   <img src="https://raw.githubusercontent.com/FahmiDhika/FahmiDhika/main/luffy.gif" width="500">
 </p>
 
+# 🖐️ Hi, i'am Fahmi:
+🏫 Vocational Highschool Student<br>💻 Junior Web Developer<br>👯 Feel free to collaborate on<br>🐈 Love cat
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahmiidhika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahmi-dhika-254086285) 

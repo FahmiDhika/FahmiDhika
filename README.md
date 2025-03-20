@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   ![luffy](https://github.com/user-attachments/assets/ad7b40f7-401c-4c06-8922-96a58d990c89)
-</p>
+</div>
 
 # 🖐️ Hi, i'am Fahmi:
 🏫 Vocational Highschool Student<br>💻 Junior Web Developer<br>👯 Feel free to collaborate on<br>🐈 Love cat
